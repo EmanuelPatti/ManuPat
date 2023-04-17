@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.cerchio{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: rgb(112, 112, 112) 15px solid;
+    background-color: gray;
+    transition: 1s;
+    margin: auto;
+}
+
+.rosso:hover{
+    background-color: red;
+}
+.giallo:hover{
+    background-color: yellow;
+}
+.verde:hover{
+    background-color: green;
+}
